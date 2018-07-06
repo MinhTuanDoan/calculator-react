@@ -1,0 +1,15 @@
+.table-border{
+  border: 1px solid black;
+}
+
+.screenStyle{
+  width: 900px;
+  height: 50px;
+  font-size: 40px;
+  border-top: transparent !important;
+  border-left: transparent !important;
+  border-right: transparent !important;
+  border-bottom: 4px solid !important;
+  box-shadow: none !important;
+}
+
